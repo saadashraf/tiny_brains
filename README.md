@@ -16,12 +16,12 @@
 <br><br>
 
 <p align="center">
-  <img src="documentation/adult_moco.jpg" alt="Figure" width="800"/>
+  <img src="documentation/adult_moco.jpg" alt="Figure" width="600"/>
 </p>
 
 [//]: # (<br>)
 <p align="center">
-  <img src="documentation/neonatal_moco.jpg" alt="Figure" width="800"/>
+  <img src="documentation/neonatal_moco.jpg" alt="Figure" width="600"/>
 </p>
 
 [//]: # (## Overview <a name="overview"></a>)
