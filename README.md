@@ -54,6 +54,7 @@ also address the open and reproducible aspects of research in this sector, which
 <br>
 Reconstruction and Imaging Motion Estimation (RIME) Workshop, MICCAI 2025
 
+<a href='https://link.springer.com/chapter/10.1007/978-3-032-06103-4_6'><img src='https://img.shields.io/badge/Paper-PDF-purple'></a>
 
 ## News <a name="news"></a>
 **`2026/03/11`** Thesis based on this work got accepted at the University of Calgary. <a href='https://hdl.handle.net/1880/124367'><img src='https://img.shields.io/badge/Thesis-PDF-purple'></a>
