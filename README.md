@@ -15,6 +15,15 @@
 <a href='https://link.springer.com/chapter/10.1007/978-3-032-06103-4_6'><img src='https://img.shields.io/badge/Paper-PDF-purple'></a>
 <br><br>
 
+<p align="center">
+  <img src="documentation/adult_moco.jpg" alt="Figure" width="500"/>
+</p>
+
+[//]: # (<br>)
+<p align="center">
+  <img src="documentation/neonatal_moco.jpg" alt="Figure" width="500"/>
+</p>
+
 [//]: # (## Overview <a name="overview"></a>)
 Deep learning models tend to degrade due to difference in MRI datasets coming from scanners, 
 acquisition protocols, and preprocessing pipelines. As a widely used non-invasive 
@@ -123,8 +132,9 @@ demonstrate robust performance across seen and unseen datasets.</em>
 ### Neonatal Test Sets - Promising Few Shot Domain Adaptation 
 
 The neonatal test dataset is the most interesting outcome of this experiment. 
-We saw consistent brain reconstruction from the adult baseline model, which
-also performed drastically better in motion mitigation after few-shot training.
+We saw consistent brain reconstruction from the adult baseline model without
+any retraining, which also performed significantly better in motion mitigation
+after few-shot training.
 
 <p align="center">
   <img src="documentation/neonatal_outputs.jpg" alt="Figure" width="500"/>
