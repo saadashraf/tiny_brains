@@ -178,7 +178,7 @@ and running scripts)
 - [Corresponding Author Email - saadbinashraf14@gmail.com](mailto:saadbinashraf14@gmail.com)
 
 
-[//]: # (TODO: Refactor to contain as less info required in config. Identify assets )
+[//]: # (TODO: Refactor to contain as less info required in config. Identify assets. Dockerize)
 
 [//]: # (automatically as long as assets maintain file structure.)
 [//]: # (&#40;TODO: Add models somewhere for reproducibility&#41;)
